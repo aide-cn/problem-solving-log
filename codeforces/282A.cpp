@@ -21,4 +21,5 @@ int main() {
     while (a-- > 0)
         b = b + run_case();
     cout << b;
+    return 0;
 }

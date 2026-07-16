@@ -19,4 +19,5 @@ int main(){
     int a, b;
     cin >> a >> b;
     run_case(a, b);
+    return 0;
 }

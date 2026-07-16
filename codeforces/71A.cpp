@@ -16,4 +16,5 @@ int main() {
     cin >> a;
     while (a-- > 0)
         run_case();
+    return 0;
 }
